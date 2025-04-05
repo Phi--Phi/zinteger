@@ -7,7 +7,8 @@ Program to compute _(quickly)_ the max size of `u65535` in zig. Output is a numb
 - `zig build`
 
 ## Dependencies
-	- zig >= 0.14.0
+
+- zig >= 0.14.0
 
 # Run Instructions
 
